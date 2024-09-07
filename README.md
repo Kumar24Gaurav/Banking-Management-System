@@ -4,7 +4,7 @@ This Java-based application allows you to manage user accounts, perform transact
 # 📂 Project Structure<br>
 'src/': Contains the Java source code files.<br>
 'database/': Includes SQL scripts for database setup.<br>
-'screenshots/': Screenshots of the application in action.<be>
+
 <br>
 # 📦 Features<br>
 User Registration & Login<br>
