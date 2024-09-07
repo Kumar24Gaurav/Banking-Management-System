@@ -3,8 +3,8 @@ This Java-based application allows you to manage user accounts, perform transact
 <br>
 # 📂 Project Structure<br>
 'src/': Contains the Java source code files.<br>
-'database/': Includes SQL scripts for database setup.<br>
-
+'database/': Includes SQL scripts for database setup.<be>
+<br>
 <br>
 # 📦 Features<br>
 User Registration & Login<br>
